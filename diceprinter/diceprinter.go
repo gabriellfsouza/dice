@@ -8,6 +8,7 @@ import (
 )
 
 func main() {
+
 	fmt.Println(dice.Roll(6))
 	diceprinter.PrintRoll(6)
 }
